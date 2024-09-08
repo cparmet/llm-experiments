@@ -13,6 +13,10 @@ ipython = "^8.27.0"
 torch = "^2.4.0"
 mlx-lm = "^0.18.1"
 ipykernel = "^6.29.5"
+langchain-community = "^0.2.15"
+langchain = "^0.2.15"
+google-search-results = "^2.4.2"
+numexpr = "^2.10.1"
 
 [build-system]
 requires = ["poetry-core"]
