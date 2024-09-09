@@ -1,4 +1,4 @@
-This repo contains notebooks that explore LLMs and tooling, including <b>Llama 3</b> by Meta, <b>Gemma 2</b> by Google, <b>LangChain</b>, and <b>MLX</b>.  
+This repo contains notebooks that explore LLMs and tooling, including <b>Llama 3</b> by Meta, <b>Gemma 2</b> by Google, the optimization packages [llama.cpp](https://github.com/ggerganov/llama.cpp) & [mlx-lm](https://qwen.readthedocs.io/en/latest/run_locally/mlx-lm.html), and the [LangChain](https://www.langchain.com) framework for building applications with LLMs.  
   
 To run:
 1. Clone this repo locally
